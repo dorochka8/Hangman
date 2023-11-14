@@ -11,9 +11,9 @@ I propose to use my source code to create your own Hangman game Bot written on t
 
 1. Clone the project from GitHub (*Windows compatibility*):
 ```
-git clone --recursive -j8 https://github.com/LaDoring/Hangman
+git clone --recursive -j8 https://github.com/dorochka8/Hangman
 ```
-2. Install `requirements.txt` (directly from https://github.com/LaDoring/Hangman/blob/main/requirements.txt to get all the libraries that are used in the project, *VS Code compatibility*).
+2. Install `requirements.txt` (directly from https://github.com/dorochka8/Hangman/blob/main/requirements.txt to get all the libraries that are used in the project, *VS Code compatibility*).
 3. Adjust configuration parameters:
 - Modify the values in `config.py`
 4. (Optional) Change the words you want to send to player in `words.py`.
