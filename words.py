@@ -1,22 +1,16 @@
-word_list = ['технология', 'реформа', 'отсутствие', 'собака', 'камень', 'будущее', 'редактор', 'дворец', 'забота',
-             'пиво', 'диван', 'столик', 'эксперимент', 'печать', 'кольцо', 'пистолет', \
-             'рассказ', 'контроль', 'река', 'продукция', 'сумма', 'техника', 'здание', 'воспитание', 'начальство',
-             'профессия', 'ворота', 'добро', 'дружба', 'покой', 'риск', 'окончание', 'дым', \
-             'сфера', 'необходимость', 'фонд', 'подготовка', 'лист', 'республика', 'брак', 'величина', 'записка',
-             'инициатива', 'совесть', 'активность', 'кость', 'спорт', 'кредит', 'господь', \
-             'хозяйство', 'воля', 'бюджет', 'снег', 'деревня', 'мужик', 'элемент', 'майор', 'конференция', 'потолок',
-             'библиотека', 'помощник', 'конструкция', 'отдых', 'ручка', 'металл', \
-             'обстоятельство', 'немец', 'победа', 'источник', 'звезда', 'выбор', 'масса', 'мальчишка', 'очки', 'миг',
-             'штука', 'чтение', 'поселок', 'свидетель', 'ставка', 'сумка', 'удивление', \
-             'хвост', 'песок', 'поворот', 'возвращение', 'мгновение', 'статус', 'озеро', 'строй', 'параметр', 'сказка',
-             'итог', 'сестра', 'практика', 'проведение', 'карман', 'слава', 'кухня', \
-             'молоко', 'прокурор', 'транспорт', 'поэзия', 'соединение', 'краска', 'расстояние', 'мечта', 'село', 'еда',
-             'определение', 'функция', 'войско', 'комиссия', 'применение', 'капитан', \
-             'работник', 'обеспечение', 'офицер', 'фамилия', 'предел', 'выборы', 'ученый', 'сигарета', 'восторг',
-             'золото', 'почва', 'премия', 'король', 'подъезд', 'шанс', 'автомат', 'заказ', \
-             'бутылка', 'бой', 'теория', 'зона', 'отдел', 'зуб', 'разработка', 'личность', 'гора', 'товар', 'метр',
-             'праздник', 'влияние', 'читатель', 'удовольствие', \
-             'актер', 'слеза', 'ответственность', 'учитель', 'акт', 'боль', 'множество', 'зло', 'подразделение',
-             'сюжет', 'рубеж', 'сигнал', 'атмосфера', 'крест', 'вес', 'взрыв', 'контакт', \
-             'особенность', 'показатель', 'корабль', 'звук', 'впечатление', 'частность', 'отказ', 'замок', 'тенденция',
-             'вина', 'дыхание', 'версия', 'масштаб', 'монастырь', 'хозяйка', 'дочка', 'танец']
+word_list =  ['absence', 'act', 'activity', 'actor', 'application', 'army', 'assistant', 'atmosphere', 'bag', 'beer', 'bet', 'bone', 'bottle', 'boy', 
+              'breath', 'budget', 'building', 'captain', 'care', 'castle', 'ceiling', 'chance', 'choice', 'cigarette', 'circumstance', 'commission', 
+              'conduct', 'conference', 'connection', 'conscience', 'construction', 'construction', 'contact', 'control', 'credit', 'cross', 'dance', 
+              'daughter', 'definition', 'delight', 'department', 'development', 'distance', 'dog', 'dream', 'editor', 'elections', 'element', 'ending', 
+              'entrance', 'evil', 'experiment', 'explosion', 'feature', 'festival', 'fight', 'food', 'friendship', 'frontier', 'function', 'fund', 
+              'future', 'gate', 'glasses', 'glory', 'gold', 'goodness', 'goods', 'guilt', 'hostess', 'household', 'impression', 'indicator', 'influence',
+              'initiative', 'king', 'kitchen', 'lake', 'leaf', 'library', 'limit', 'lord', 'machine', 'magnitude', 'major', 'man', 'management', 
+              'marriage',  'mass', 'metal', 'meter', 'milk', 'moment', 'monastery', 'mountain', 'multitude', 'necessity', 'note', 'officer', 'order', 
+              'pain', 'paint', 'palace', 'parameter', 'particularity', 'peace', 'pen', 'personality', 'pistol', 'pleasure', 'plot', 'pocket', 'poetry', 
+              'practice', 'preparation', 'prize', 'production', 'profession', 'prosecutor', 'provision', 'reader', 'reading', 'reform', 'refusal', 
+              'republic', 'responsibility', 'rest', 'result', 'ring', 'risk', 'river', 'sand', 'scale', 'scientist', 'seal', 'settlement', 'ship', 
+              'signal', 'sister', 'smoke', 'snow', 'sofa', 'soil', 'sound', 'source', 'sphere', 'sport', 'star', 'status', 'stone', 'story', 'subdivision', 
+              'sum', 'surname', 'surprise', 'table', 'tail', 'teacher', 'tear', 'technique', 'technology', 'tendency', 'theory', 'thing', 'tooth', 
+              'transport', 'turn', 'upbringing', 'version', 'victory', 'village', 'village', 'weight', 'will', 'witness', 'worker', 'zombie', 'zone', 'zoo', 
+             ]
+
